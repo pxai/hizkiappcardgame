@@ -7,7 +7,7 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
-   sodipodi:docname="hizkiapp_eu_0.svg"
+   sodipodi:docname="hizkiapp_eu_2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -106,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="269.40768"
-     inkscape:cy="839.68928"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="154.14927"
+     inkscape:cy="574.8778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -152,596 +152,557 @@
          id="flowPara5069-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000" /></flowRoot>
     <g
-       id="g2735"
+       id="g1978"
        transform="translate(25.350394,-6.0840601)">
-      <g
-         id="g1978">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172"><rect
-               id="rect3174"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3170"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(82.214844)"><flowRegion
+           id="flowRegion3172"><rect
+             id="rect3174"
+             width="182.85715"
+             height="58.57143"
+             x="64.285713"
+             y="298.07648"
+             style="font-size:12" /></flowRegion><flowPara
+           id="flowPara3176"
+           style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+         id="rect4368-0-1"
+         width="224"
+         height="254"
+         x="34.5"
+         y="57.843903" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+         x="147.85715"
+         y="211.42857"
+         id="text1047"
+         transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
            x="147.85715"
            y="211.42857"
-           id="text1047"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8901"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8899">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+           id="tspan2093"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+             id="tspan2091">K</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+         x="153.52115"
+         y="211.42857"
+         id="text1047-7"
+         transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
            x="153.52115"
            y="211.42857"
-           id="text1047-7"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8905"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8903">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4"
-         transform="translate(225)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7"><rect
-               id="rect3174-1"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8909"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8907">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8913"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8911">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-7"
-         transform="translate(450)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-4"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-4"><rect
-               id="rect3174-1-9"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-1"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-5"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-5"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8917"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8915">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-5"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8921"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8919">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-8"
-         transform="translate(0,255)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-2"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-9"><rect
-               id="rect3174-8"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-2"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-0"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-74"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8925"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8923">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-8"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8929"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8927">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-5"
-         transform="translate(225,255)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-8"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-3"><rect
-               id="rect3174-1-0"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-6"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-2"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-2"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8933"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8931">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-52"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8937"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8935">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-7-2"
-         transform="translate(450,255)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-4-7"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-4-1"><rect
-               id="rect3174-1-9-5"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-1-2"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-5-1"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-5-1"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8941"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8939">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-5-0"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8945"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8943">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-1"
-         transform="translate(0,510)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-8"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-76"><rect
-               id="rect3174-0"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-0"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-9"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-5"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8949"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8947">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-85"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8953"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8951">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-3"
-         transform="translate(225,510)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-9"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-0"><rect
-               id="rect3174-1-5"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-63"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-6"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-3"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8957"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8955">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-4"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8961"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8959">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-7-6"
-         transform="translate(450,510)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-4-4"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-4-6"><rect
-               id="rect3174-1-9-4"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-1-3"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-5-8"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-5-4"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8965"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8963">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-5-9"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8969"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8967">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-5"
-         transform="translate(0,765)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-7"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-2"><rect
-               id="rect3174-9"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-7"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-5"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-6"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8973"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8971">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-0"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8977"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8975">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-55"
-         transform="translate(225,765)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-5"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-42"><rect
-               id="rect3174-1-1"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-9"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-24"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-58"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8981"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8979">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-51"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8985"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8983">1</tspan></tspan></text>
-      </g>
-      <g
-         id="g1978-4-7-7"
-         transform="translate(450,765)">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3170-1-4-3"
-           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(82.214844)"><flowRegion
-             id="flowRegion3172-7-4-7"><rect
-               id="rect3174-1-9-50"
-               width="182.85715"
-               height="58.57143"
-               x="64.285713"
-               y="298.07648"
-               style="font-size:12" /></flowRegion><flowPara
-             id="flowPara3176-8-1-21"
-             style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
-        <rect
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
-           id="rect4368-0-1-7-5-87"
-           width="224"
-           height="254"
-           x="34.5"
-           y="57.843903" />
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
-           x="147.85715"
-           y="211.42857"
-           id="text1047-8-5-15"
-           transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
-             x="147.85715"
-             y="211.42857"
-             id="tspan8989"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
-               id="tspan8987">A</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
-           x="153.52115"
-           y="211.42857"
-           id="text1047-7-7-5-5"
-           transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
-             x="153.52115"
-             y="211.42857"
-             id="tspan8993"><tspan
-               style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
-               id="tspan8991">1</tspan></tspan></text>
-      </g>
+           id="tspan2097"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan2095">1</tspan></tspan></text>
     </g>
+    <g
+       id="g1978-4"
+       transform="translate(250.35039,-6.0840601)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3170-1"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(82.214844)"><flowRegion
+           id="flowRegion3172-7"><rect
+             id="rect3174-1"
+             width="182.85715"
+             height="58.57143"
+             x="64.285713"
+             y="298.07648"
+             style="font-size:12" /></flowRegion><flowPara
+           id="flowPara3176-8"
+           style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+         id="rect4368-0-1-7"
+         width="224"
+         height="254"
+         x="34.5"
+         y="57.843903" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+         x="147.85715"
+         y="211.42857"
+         id="text1047-8"
+         transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
+           x="147.85715"
+           y="211.42857"
+           id="tspan2101"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+             id="tspan2099">K</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+         x="153.52115"
+         y="211.42857"
+         id="text1047-7-7"
+         transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
+           x="153.52115"
+           y="211.42857"
+           id="tspan2105"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan2103">1</tspan></tspan></text>
+    </g>
+    <g
+       id="g1978-4-7"
+       transform="translate(475.35039,-6.0840601)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3170-1-4"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(82.214844)"><flowRegion
+           id="flowRegion3172-7-4"><rect
+             id="rect3174-1-9"
+             width="182.85715"
+             height="58.57143"
+             x="64.285713"
+             y="298.07648"
+             style="font-size:12" /></flowRegion><flowPara
+           id="flowPara3176-8-1"
+           style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+         id="rect4368-0-1-7-5"
+         width="224"
+         height="254"
+         x="34.5"
+         y="57.843903" />
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+         x="147.85715"
+         y="211.42857"
+         id="text1047-8-5"
+         transform="matrix(5.1568857,0,0,5.0376851,-675.30864,-822.63555)"><tspan
+           x="147.85715"
+           y="211.42857"
+           id="tspan2109"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+             id="tspan2107">K</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+         x="153.52115"
+         y="211.42857"
+         id="text1047-7-7-5"
+         transform="matrix(1.4185896,0,0,1.6870467,-95.66053,-56.067164)"><tspan
+           x="153.52115"
+           y="211.42857"
+           id="tspan2113"><tspan
+             style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+             id="tspan2111">1</tspan></tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-2"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(107.56524,248.91594)"><flowRegion
+         id="flowRegion3172-9"><rect
+           id="rect3174-8"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-2"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-0"
+       width="224"
+       height="254"
+       x="59.850395"
+       y="306.75986" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-74"
+       transform="matrix(5.1568857,0,0,5.0376851,-644.54007,-573.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2117"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2115">L</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-8"
+       transform="matrix(1.4185896,0,0,1.6870467,-72.009595,192.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2121"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2119">2</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-8"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(332.56523,248.91594)"><flowRegion
+         id="flowRegion3172-7-3"><rect
+           id="rect3174-1-0"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-6"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-2"
+       width="224"
+       height="254"
+       x="284.8504"
+       y="306.75986" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-2"
+       transform="matrix(5.1568857,0,0,5.0376851,-419.54007,-573.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2125"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2123">L</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-52"
+       transform="matrix(1.4185896,0,0,1.6870467,152.99041,192.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2129"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2127">2</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-4-7"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(557.56523,248.91594)"><flowRegion
+         id="flowRegion3172-7-4-1"><rect
+           id="rect3174-1-9-5"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-1-2"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-5-1"
+       width="224"
+       height="254"
+       x="509.8504"
+       y="306.75986" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-5-1"
+       transform="matrix(5.1568857,0,0,5.0376851,-194.54007,-573.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2133"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2131">L</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-5-0"
+       transform="matrix(1.4185896,0,0,1.6870467,377.99041,192.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2137"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2135">2</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-8"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(107.56524,503.91594)"><flowRegion
+         id="flowRegion3172-76"><rect
+           id="rect3174-0"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-0"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-9"
+       width="224"
+       height="254"
+       x="59.850395"
+       y="561.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-5"
+       transform="matrix(5.1568857,0,0,5.0376851,-662.5823,-318.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2141"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2139">M</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-85"
+       transform="matrix(1.4185896,0,0,1.6870467,-71.558506,447.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2145"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2143">3</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-9"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(332.56523,503.91594)"><flowRegion
+         id="flowRegion3172-7-0"><rect
+           id="rect3174-1-5"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-63"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-6"
+       width="224"
+       height="254"
+       x="284.8504"
+       y="561.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-3"
+       transform="matrix(5.1568857,0,0,5.0376851,-437.58229,-318.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2149"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2147">M</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-4"
+       transform="matrix(1.4185896,0,0,1.6870467,153.4415,447.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2153"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2151">3</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-4-4"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(557.56523,503.91594)"><flowRegion
+         id="flowRegion3172-7-4-6"><rect
+           id="rect3174-1-9-4"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-1-3"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-5-8"
+       width="224"
+       height="254"
+       x="509.8504"
+       y="561.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-5-4"
+       transform="matrix(5.1568857,0,0,5.0376851,-204.00123,-318.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2157"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2155">N</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-5-9"
+       transform="matrix(1.4185896,0,0,1.6870467,379.68987,447.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2161"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2159">1</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-7"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(107.56524,758.91594)"><flowRegion
+         id="flowRegion3172-2"><rect
+           id="rect3174-9"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-7"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-5"
+       width="224"
+       height="254"
+       x="59.850395"
+       y="816.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-6"
+       transform="matrix(5.1568857,0,0,5.0376851,-654.00124,-63.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2165"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2163">N</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-0"
+       transform="matrix(1.4185896,0,0,1.6870467,-70.310134,702.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2169"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2167">1</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-5"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(332.56523,758.91594)"><flowRegion
+         id="flowRegion3172-7-42"><rect
+           id="rect3174-1-1"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-9"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-24"
+       width="224"
+       height="254"
+       x="284.8504"
+       y="816.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-58"
+       transform="matrix(5.1568857,0,0,5.0376851,-429.00123,-63.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2173"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2171">N</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-51"
+       transform="matrix(1.4185896,0,0,1.6870467,154.68987,702.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2177"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2175">1</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3170-1-4-3"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(557.56523,758.91594)"><flowRegion
+         id="flowRegion3172-7-4-7"><rect
+           id="rect3174-1-9-50"
+           width="182.85715"
+           height="58.57143"
+           x="64.285713"
+           y="298.07648"
+           style="font-size:12" /></flowRegion><flowPara
+         id="flowPara3176-8-1-21"
+         style="font-size:12px;line-height:1.25"> </flowPara></flowRoot>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.319885"
+       id="rect4368-0-1-7-5-87"
+       width="224"
+       height="254"
+       x="509.8504"
+       y="816.75983" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:0.392393"
+       x="147.85715"
+       y="211.42857"
+       id="text1047-8-5-15"
+       transform="matrix(5.1568857,0,0,5.0376851,-204.00123,-63.71961)"><tspan
+         x="147.85715"
+         y="211.42857"
+         id="tspan2181"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';fill:#000000;stroke:none"
+           id="tspan2179">N</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;white-space:pre;inline-size:36.448;display:inline;fill:#d9eded;stroke:#000000;stroke-width:1.29282"
+       x="153.52115"
+       y="211.42857"
+       id="text1047-7-7-5-5"
+       transform="matrix(1.4185896,0,0,1.6870467,379.68987,702.84878)"><tspan
+         x="153.52115"
+         y="211.42857"
+         id="tspan2185"><tspan
+           style="font-family:Borel;-inkscape-font-specification:'Borel, Normal';text-align:center;text-anchor:middle;fill:#000000"
+           id="tspan2183">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.7116px;font-family:Borel;-inkscape-font-specification:'Borel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2"
