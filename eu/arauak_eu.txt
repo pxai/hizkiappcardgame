@@ -1,0 +1,33 @@
+Arauak
+
+Hizkiekin hitzak sortzeko jokua da hau. Hizki bakoitzak puntuak balio ditu eta horiek batuz puntuazio osoa lortzen da.
+hizki.appen bezala jokatu daiteke edo beste modu askotan. Edozein kasutan, jokuaren helburua hizkiekin hitzak sortzea da. Nahi izanez gero denbora limitea ezar daiteke.
+
+Nola jokatu
+Kartak nahastu eta 4 kartako 4 lerro sortu, hizki.app jokuan egiten den bezala.
+
+Ondoren kartekin hitzak sortzen saiatu, bata bestearean atzean.
+
+Hizkiak, ideiak edo denbora agortzerakoan puntuak kontatu:
+- Batetik hizkien puntuak batu.
+- Bestetik, hiru edo hizki gehiago duten hitzek, luzera bezainbeste puntu estra jasotzen dituzte.
+Adibidez:
+- AMA 3 puntu estra.
+- LAPIKO 6 puntu estra.
+
+Hitzak zuzenak diren ala ez erizpide ezberdinak erabil ditzakezu:
+- Zu zeu ontzat eman.
+- Jokalarien artean balioztatu.
+- Hiztegi bat erabili. Liburua ala web guneetan:
+  - https://www.euskaltzaindia.eus/  (hizki.app erabiltzen duena)
+  - https://hiztegiak.elhuyar.eus/
+
+Beste moduak jolasteko:
+
+Euskarbel
+Kartak nahastu eta lehenengo hamasei kartak atera. Ondoren saiatu hitzak sortzen baina hitzak gurutzatu ahal izango dituzu.
+
+Buruz Buru (2-4 jokalari)
+Kartak nahastu eta jokalari bakoitzari 16 karta eman. Ondoren bakoitzak hitzak sortu beharko ditu bere 16 kartekin.
+
+https://hizki.app - Pello
